@@ -211,4 +211,4 @@ Filemail is available as a complete free version with all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-20 14:33:26 UTC
+**Last updated:** 2026-09-20 18:02:10 UTC
